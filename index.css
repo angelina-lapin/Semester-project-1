@@ -127,6 +127,7 @@ h2{
 .options button{
     width: 110px;
     height: 37px;
+    cursor: pointer;
     
 }
 
@@ -138,7 +139,40 @@ h2{
     margin-bottom: 10px;
 }
 
+.butn-centr{
+    margin-top: 3em;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
 .go{
-    margin-top: 30px;
-    text-align: center;
+    
+    width: 305px;
+height: 41px;
+flex-shrink: 0;
+cursor: pointer;
+}
+
+.go{
+    border-radius: 7px;
+border: 1px solid #62C9FD;
+background: rgba(243, 235, 218, 0.26);
+}
+
+.go{
+    color: #000;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+hr{
+    border-top: 3px dashed #62C9FD;
+}
+
+hr{
+    margin-top: 2em;
+
 }
