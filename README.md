@@ -1,6 +1,6 @@
 # Norwegian Science Museum web page 
 
-![image]("https://angelina.lapin.io/githubPreviews/rainydays%20.png")
+![image](https://angelina.lapin.io/githubPreviews/rainydays%20.png)
 
 Welcome to the project of developing a website for the Norwegian Science Museum. This assignment simulates a real-world brief from a web agency, aiming to use project planning, web design, and development skills to complete the brief within the available time.
 
